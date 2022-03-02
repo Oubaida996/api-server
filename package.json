@@ -1,0 +1,32 @@
+{
+    "name": "api-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "NODE_ENV=test jest",
+        "start": "NODE_ENV=production node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Oubaida996/api-server.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Oubaida996/api-server/issues"
+    },
+    "homepage": "https://github.com/Oubaida996/api-server#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "jest": "^27.5.1",
+        "pg": "^8.7.3",
+        "pg-hstore": "^2.3.4",
+        "sequelize": "^6.17.0",
+        "sqlite3": "^5.0.2",
+        "supertest": "^6.2.2"
+    }
+}
