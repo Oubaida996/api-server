@@ -1,13 +1,13 @@
 # api-server  
 
 # Heroku link  
-[Heroku link]()
+[Heroku link](https://obieda-api-server.herokuapp.com/)
 
 # PR
-[PR]()  
+[PR](https://github.com/Oubaida996/api-server/pull/2)  
 
 # Actions
-[Action]()
+[Action](https://github.com/Oubaida996/api-server/actions)
 
 /clothes  
   {
