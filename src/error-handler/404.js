@@ -3,6 +3,6 @@
 
 
 module.exports =(req,res,next) =>{
-     res.send(`page not found`);
+     res.status(404).send(`page not found`);
      
 }
